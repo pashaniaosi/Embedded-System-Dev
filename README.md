@@ -1,2 +1,2 @@
 # Embedded-System-Dev
- customization RTOS for LoRa Network
+Customization RTOS for LoRa Network
